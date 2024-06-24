@@ -3,7 +3,6 @@
 ## Full Stack Software Engineer
 
 - 🌍  I'm based in Kigali, Rwanda
-- ✉️  You can contact me at [b.nyilindek@alustudent.com](mailto:b.nyilindek@alustudent.com)
 - 🧠  I'm learning Backend Development with Django
 - ⚡  Huge anime fan
 
