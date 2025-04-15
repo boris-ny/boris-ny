@@ -3,7 +3,7 @@
 ## Full Stack Software Engineer
 
 - 🌍  I'm based in Kigali, Rwanda
-- 🧠  I'm learning Backend Development with Django
+- 🧠  I'm currently learning data science tools
 - ⚡  Huge anime fan
 
 ### Skills
