@@ -1,23 +1,97 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="50" height="50" /> Hi, My name is **Boris Nyilindekwe**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" alt="Boris Nyilindekwe, Full-Stack Software Engineer, Kigali, Rwanda" width="100%" />
+</picture>
 
-## Full Stack Software Engineer
-
-- 🌍  I'm based in Kigali, Rwanda
-- 🧠  I'm currently learning data science tools
-- ⚡  Huge anime fan
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/boris-nyilindekwe-2771a31aa/"><img src="https://img.shields.io/badge/LinkedIn-Boris%20Nyilindekwe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-collaborations-22c55e?style=for-the-badge" alt="Open to collaborations" />
+  <img src="https://komarev.com/ghpvc/?username=boris-ny&style=for-the-badge&color=6366f1&label=Profile+views" alt="Profile views" />
 </p>
 
-### Socials
+## 👋 About me
 
-<p align="left"> <a href="https://www.github.com/boris-ny" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Boris Nyilindekwe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+I'm a full-stack engineer in Kigali who likes owning a product from the database schema to the last pixel.
 
-### Badges
+- 🛠️ By day I build internal web tools and data-visualisation apps
+- 🌍 On the side I ship production websites for businesses in Rwanda
+- 🧪 Currently exploring event-driven backends with NestJS, RabbitMQ and Redis
+- 🎌 Huge anime fan, which is why [Otaku Land](https://otaku-site-boris.vercel.app) exists
 
-<b>My GitHub Stats</b>
+## 🚀 Featured work
 
-<a href="http://www.github.com/boris-ny"><img src="https://github-readme-stats.vercel.app/api?username=boris-ny&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="boris-ny's GitHub stats" /></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://justonsafari.com"><img src="assets/projects/justonsafari.jpg" alt="Just On Safari website" /></a>
+      <h3><a href="https://justonsafari.com">Just On Safari</a></h3>
+      <p>Production site for a Rwandan tour company: tour packages, destination guides and an enquiry flow that emails the owner and the traveller.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resend-000?logo=resend&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://orgmatt.vercel.app"><img src="assets/projects/orgmatt.jpg" alt="Orgmatt Advisors website" /></a>
+      <h3><a href="https://orgmatt.vercel.app">Orgmatt Advisors</a></h3>
+      <p>Fast static site for a sustainable-finance advisory firm, built with content-first pages and zero-JS-by-default islands.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://otaku-site-boris.vercel.app"><img src="assets/projects/otaku-site.jpg" alt="Otaku Land anime site" /></a>
+      <h3><a href="https://otaku-site-boris.vercel.app">Otaku Land</a></h3>
+      <p>Anime discovery site with trending shows and search, powered by live data from the AniList GraphQL API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Router_7-CA4245?logo=reactrouter&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AniList_API-02A9FF?logo=anilist&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://essential-services.vercel.app"><img src="assets/projects/essential-services.jpg" alt="Essential Services Kigali" /></a>
+      <h3><a href="https://github.com/boris-ny/alu-capstone-essential_services">Essential Services</a></h3>
+      <p>Directory that helps people in Kigali find healthcare, education, transport and finance services on a map, with business sign-up. My university capstone.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,express,nestjs,electron&theme=dark" alt="Frontend and backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,rabbitmq,docker,cloudflare,vercel,python,git&theme=dark" alt="Data, infra and tools" />
+</p>
+
+## 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boris-ny/boris-ny/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boris-ny/boris-ny/output/github-snake.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/boris-ny/boris-ny/output/github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg" />
+  <img alt="3D contribution skyline" src="profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boris-ny&theme=tokyonight&hide_border=true&background=0B1020" alt="GitHub streak" />
+</p>
