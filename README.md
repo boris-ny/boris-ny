@@ -88,7 +88,7 @@ I'm a full-stack engineer in Kigali who likes owning a product from the database
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
   <img alt="3D contribution skyline" src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
